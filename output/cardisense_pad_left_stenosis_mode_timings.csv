@@ -1,0 +1,36 @@
+# =========================================================================
+# Cardisense Mode Timings & Clinical Metrics : Unilateral PAD (Left Arm Stenosis)
+# Mean Heart Rate       : 101.8 bpm
+# Mean PAT Left (Ch 0)  : 264.6 ms
+# Mean PAT Right (Ch 1) : 204.5 ms
+# Mean Bilateral dPTT   : -60.1 ms
+# Total Analyzed Beats  : 24
+# Columns: Beat_Number, R_Peak_Time_s, RR_Interval_s, Heart_Rate_BPM,
+#          PAT_Left_ms, PAT_Right_ms, Bilateral_dPTT_ms, PAT_Peak_Left_ms,
+#          PAT_Peak_Right_ms, Selected_Mode, Diagnostic_Status
+# =========================================================================
+Beat_Number,R_Peak_Time_s,RR_Interval_s,Heart_Rate_BPM,PAT_Left_ms,PAT_Right_ms,Bilateral_dPTT_ms,PAT_Peak_Left_ms,PAT_Peak_Right_ms,Selected_Mode,Diagnostic_Status
+1,0.138,0.47,127.7,265.99,205.94,-60.06,382.0,330.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+2,0.608,0.644,93.2,266.3,206.9,-59.39,430.0,374.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+3,1.252,0.618,97.1,264.53,204.44,-60.09,434.0,366.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+4,1.87,0.616,97.4,268.16,208.47,-59.69,424.0,348.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+5,2.486,0.588,102.0,264.06,204.28,-59.78,366.0,294.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+6,3.074,0.578,103.8,264.07,203.89,-60.19,392.0,296.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+7,3.652,0.564,106.4,265.48,204.72,-60.77,342.0,282.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+8,4.216,0.564,106.4,261.55,201.33,-60.22,336.0,278.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+9,4.78,0.554,108.3,262.97,203.1,-59.87,340.0,282.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+10,5.334,0.564,106.4,263.18,202.62,-60.56,370.0,306.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+11,5.898,0.566,106.0,267.93,207.84,-60.09,404.0,338.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+12,6.464,0.606,99.0,265.14,204.57,-60.57,368.0,304.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+13,7.07,0.6,100.0,263.91,203.96,-59.96,406.0,304.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+14,7.67,0.572,104.9,262.7,202.85,-59.85,408.0,308.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+15,8.242,0.56,107.1,263.8,203.68,-60.12,414.0,348.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+16,8.802,0.566,106.0,263.8,204.54,-59.26,426.0,352.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+17,9.368,0.586,102.4,264.97,204.55,-60.42,422.0,346.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+18,9.954,0.616,97.4,266.65,206.16,-60.49,410.0,334.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+19,10.57,0.588,102.0,265.42,204.63,-60.78,392.0,292.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+20,11.158,0.612,98.0,262.34,202.42,-59.92,350.0,288.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+21,11.77,0.63,95.2,266.48,206.55,-59.93,364.0,300.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+22,12.4,0.688,87.2,264.77,204.65,-60.12,368.0,306.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+23,13.088,0.638,94.0,262.04,201.76,-60.29,354.0,292.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry
+24,13.726,0.63,95.2,264.08,204.5,-59.58,376.0,308.0,Unilateral PAD (Left Arm Stenosis),Suspected Unilateral PAD / Vascular Asymmetry

@@ -1,0 +1,36 @@
+# =========================================================================
+# Cardisense Mode Timings & Clinical Metrics : Healthy Normal
+# Mean Heart Rate       : 101.8 bpm
+# Mean PAT Left (Ch 0)  : 209.6 ms
+# Mean PAT Right (Ch 1) : 217.5 ms
+# Mean Bilateral dPTT   : +7.9 ms
+# Total Analyzed Beats  : 24
+# Columns: Beat_Number, R_Peak_Time_s, RR_Interval_s, Heart_Rate_BPM,
+#          PAT_Left_ms, PAT_Right_ms, Bilateral_dPTT_ms, PAT_Peak_Left_ms,
+#          PAT_Peak_Right_ms, Selected_Mode, Diagnostic_Status
+# =========================================================================
+Beat_Number,R_Peak_Time_s,RR_Interval_s,Heart_Rate_BPM,PAT_Left_ms,PAT_Right_ms,Bilateral_dPTT_ms,PAT_Peak_Left_ms,PAT_Peak_Right_ms,Selected_Mode,Diagnostic_Status
+1,0.138,0.47,127.7,210.99,218.94,7.94,328.0,344.0,Healthy Normal,Normal Physiological Transit
+2,0.608,0.644,93.2,211.3,219.9,8.61,374.0,386.0,Healthy Normal,Normal Physiological Transit
+3,1.252,0.618,97.1,209.53,217.44,7.91,378.0,378.0,Healthy Normal,Normal Physiological Transit
+4,1.87,0.616,97.4,213.16,221.47,8.31,368.0,360.0,Healthy Normal,Normal Physiological Transit
+5,2.486,0.588,102.0,209.06,217.28,8.22,310.0,306.0,Healthy Normal,Normal Physiological Transit
+6,3.074,0.578,103.8,209.07,216.89,7.81,336.0,310.0,Healthy Normal,Normal Physiological Transit
+7,3.652,0.564,106.4,210.48,217.72,7.23,288.0,294.0,Healthy Normal,Normal Physiological Transit
+8,4.216,0.564,106.4,206.55,214.33,7.78,282.0,292.0,Healthy Normal,Normal Physiological Transit
+9,4.78,0.554,108.3,207.97,216.1,8.13,284.0,296.0,Healthy Normal,Normal Physiological Transit
+10,5.334,0.564,106.4,208.18,215.62,7.44,316.0,318.0,Healthy Normal,Normal Physiological Transit
+11,5.898,0.566,106.0,212.93,220.84,7.91,350.0,352.0,Healthy Normal,Normal Physiological Transit
+12,6.464,0.606,99.0,210.14,217.57,7.43,314.0,316.0,Healthy Normal,Normal Physiological Transit
+13,7.07,0.6,100.0,208.91,216.96,8.04,352.0,318.0,Healthy Normal,Normal Physiological Transit
+14,7.67,0.572,104.9,207.7,215.85,8.15,352.0,320.0,Healthy Normal,Normal Physiological Transit
+15,8.242,0.56,107.1,208.8,216.68,7.88,360.0,362.0,Healthy Normal,Normal Physiological Transit
+16,8.802,0.566,106.0,208.8,217.54,8.74,372.0,364.0,Healthy Normal,Normal Physiological Transit
+17,9.368,0.586,102.4,209.97,217.55,7.58,366.0,358.0,Healthy Normal,Normal Physiological Transit
+18,9.954,0.616,97.4,211.65,219.16,7.51,354.0,346.0,Healthy Normal,Normal Physiological Transit
+19,10.57,0.588,102.0,210.42,217.63,7.22,338.0,304.0,Healthy Normal,Normal Physiological Transit
+20,11.158,0.612,98.0,207.34,215.42,8.08,294.0,300.0,Healthy Normal,Normal Physiological Transit
+21,11.77,0.63,95.2,211.48,219.55,8.07,308.0,312.0,Healthy Normal,Normal Physiological Transit
+22,12.4,0.688,87.2,209.77,217.65,7.88,312.0,318.0,Healthy Normal,Normal Physiological Transit
+23,13.088,0.638,94.0,207.04,214.76,7.71,298.0,306.0,Healthy Normal,Normal Physiological Transit
+24,13.726,0.63,95.2,209.08,217.5,8.42,320.0,320.0,Healthy Normal,Normal Physiological Transit
